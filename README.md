@@ -1,6 +1,14 @@
 # New Site Template
 
-[TODO. There will be project description]
+## Description
+
+This project contains a Bootstrap site template [Jumbotron](http://getbootstrap.com/examples/jumbotron/), modified for offline usage.
+
+## Getting started
+
+```
+git clone git@github.com:SBKubric/16_offline_site.git
+```
 
 # Project Goals
 
